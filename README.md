@@ -2,7 +2,6 @@
 
 Calculadora de liquidación final según la causa de extinción del contrato de trabajo (LCT, con la Ley 27.802), con cada rubro calculado paso a paso.
 
-Hecha para el TP 10 (Extinción del contrato de trabajo) de Actuación Profesional Laboral y Previsional, FCE – UNLP.
 
 ## Qué hace
 
