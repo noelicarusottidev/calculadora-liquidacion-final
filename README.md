@@ -18,7 +18,7 @@ Hecha para el TP 10 (Extinción del contrato de trabajo) de Actuación Profesion
 - SAC = mayor remuneración del semestre ÷ 2 ÷ 180 × días trabajados del semestre.
 - Indemnización por antigüedad: 1 MRMNH por año o fracción mayor de 3 meses, con un mínimo de 1 MRMNH.
 
-Se verificó con los Casos 1 y 2 de la guía de trabajos prácticos 2026.
+
 
 ## Uso
 
