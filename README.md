@@ -1,6 +1,6 @@
 # Calculadora de liquidación final
 
-Calculadora de liquidación final según la causa de extinción del contrato de trabajo (LCT, con la Ley 27.802), con cada rubro calculado paso a paso.
+Calculadora de liquidación final según la causa de extinción del contrato de trabajo argentina (LCT, con la Ley 27.802), con cada rubro calculado paso a paso.
 
 
 ## Qué hace
